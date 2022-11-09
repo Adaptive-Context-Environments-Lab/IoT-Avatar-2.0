@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9282914,
+  author={Morris, Alexis and Guan, Jie and Lessio, Nadine and Shao, Yiyi},
+  booktitle={2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}, 
+  title={Toward Mixed Reality Hybrid Objects with IoT Avatar Agents}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={766-773},
+  doi={10.1109/SMC42975.2020.9282914}}
